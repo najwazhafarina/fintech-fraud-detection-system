@@ -105,7 +105,7 @@ Feature importance analysis was performed using the Random Forest model.
 
 This analysis helps identify which variables contribute the most to detecting fraudulent transactions and provides interpretability for the machine learning model.
 
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](images_folder/feature_importance.png)
 
 ---
 
